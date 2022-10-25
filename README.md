@@ -9,3 +9,5 @@ With this app:
 - You can track your expenses
 - You can add and update transactions, remove and undo the action
 - And the transactions will be persistent in your phone memory
+
+### [Download APK](https://www.mediafire.com/file/ulz3qa4hmjtd1ai/finance-tracker.apk/file)
