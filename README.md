@@ -1,6 +1,6 @@
 # finance-tracker
 
-<img src="https://i.ibb.co/SxKHKPt/smartmockups-l9og6ns1.jpg">
+<img src="https://i.ibb.co/Gk6grKZ/smartmockups-l9og6ns1.jpg">
 
 Tracking your spending is often the first step in getting your finances in order. By understanding what you spend money on and how much you spend, you can see exactly where your cash is going and areas where you can cut back.
 
